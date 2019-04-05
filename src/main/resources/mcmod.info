@@ -1,0 +1,16 @@
+[
+{
+  "modid": "claybutithaseveryoredictinthegame",
+  "name": "claybutithaseveryoredictinthegame",
+  "description": "claybutithaseveryoredictinthegame",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The_Icy_One"],
+  "credits": "no",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
